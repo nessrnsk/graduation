@@ -1,0 +1,24 @@
+body{
+background-image: url(https://img.freepik.com/free-vector/blank-brown-notepaper-design-vector_53876-175008.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+ul, ol{
+	font-size: 50px;
+	color:  plum;
+	text-shadow: 0px 0px 10px white;
+    margin: 10px;
+}
+p{
+	font-size: 50px;
+	text-align: center;
+	border: ridge 20px orchid;
+    width: 250px;
+}
+.l1 li{
+padding-left: 10px;
+}
+.l2 li::marker{
+color: lightpink;
+font-size: 1.2em
+}

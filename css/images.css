@@ -1,0 +1,39 @@
+body{
+background-color: darkseagreen;
+background-image: url(https://i.stack.imgur.com/1dpmw.gif);
+background-size: 200px;
+background-repeat: no-repeat;
+background-position: 100% 100%;
+background-attachment: fixed ;
+}
+p{
+font-size: 1in;
+background-image: url(https://wallpaper.dog/large/20642161.jpg);
+background-size: cover;
+color: white;
+text-align: center;
+}
+div{
+height: 500px;
+width: 500px;
+}
+#d1{
+background-image: url(https://i.pinimg.com/564x/6a/aa/ab/6aaaab354709ef2fa16fbd72299c8f55.jpg);
+background-size: cover; 
+border: ridge 20px brown;
+}
+#d2{
+background-image: url(https://gifdb.com/images/high/thinking-emoji-face-fwtb8bb2mnav8xjq.gif);
+border: solid 40px;
+background-size: 300px; 
+border-image: linear-gradient(black, darkblue) 30;
+}
+#img2{
+display: block;
+margin: auto;
+width: 50%;
+box-shadow: 0px 0px 50px grey;
+}
+#img1{
+width: 50%;
+}

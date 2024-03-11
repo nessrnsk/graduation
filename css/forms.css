@@ -1,0 +1,37 @@
+body{
+
+background-color: Lightsalmon;
+
+}
+
+p{
+
+font-size: 50px;
+
+color: Lime;
+
+text-align: center;
+
+}
+
+in1{
+
+display: block;
+
+margin-bottom: 20px;
+
+height: 1cm;
+
+font-size: 24px;
+
+font-family: cursive;
+
+color: darkviolet;
+
+}
+
+s1{
+
+font-size: 24px;
+
+}

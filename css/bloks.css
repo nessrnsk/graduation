@@ -1,0 +1,75 @@
+body{
+	background-color: antiquewhite;
+}
+p{
+	font-size: 50px;
+	background-color: lightpink;
+}
+.p1{
+	display: inline-block;
+}
+.s1{
+	border: dotted 2px rosybrown;
+	display: block;
+}
+#first{
+	width: 500px;
+	height: 500px;
+	background-color: lavenderblush;
+	border: ridge 20px pink;
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-left: dotted orchid;
+	border-right: dashed mediumvioletred;
+	border-bottom: groove hotpink;
+	border-top: ridge deeppink;
+	border-width: 20px;
+	margin: 50px;
+}
+#second{
+	width: 700px;
+	height: 700px;
+	background-color: mistyrose;
+	border: ridge 20px plum;
+	font-size: 50px;
+	text-align: center;
+	padding: 50px;
+	border-style: dotted dashed;
+	border-color: dimgray gray;
+}
+#third,#forth{
+	width: 800px;
+	height: 200px;
+	border: dashed 10px pink;
+	margin: 20px;
+}
+#fifth{
+	width: 600px;
+	height: 500px;
+	padding: 20px;
+	padding-left: 30px;
+	text-align: center;
+	border: ridge 20px plum;
+	margin: 40px;
+	background-color: mistyrose;
+}
+#sixth{
+	width: 500px;
+	height: 400px;
+	padding: 20px;
+	padding-left: 30px;
+	text-align: center;
+	border: ridge 20px purple;
+	background-color: mistyrose;
+}
+#seventh{
+	width: 400px;
+	height: 300px;
+	padding: 20px;
+	padding-left: 30px;
+	text-align: center;
+	border: ridge 20px darkviolet;
+	background-color: mistyrose;
+}

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Micro+5&display=swap');
+body {
+	background-color: mistyrose;
+}
+p{
+font-size: 50px;
+font-family: "Micro 5", sans-serif;
+text-align: center;
+}
+table{
+	border: double 5px lightsteelblue;
+	width: 50%;
+	font-size: 24px;
+	margin: auto;
+}
+th,td{
+	border: solid 2px silver;
+}
+tr:hover{ 
+	background-color: lavander;
+}
+td:hover{ 
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	color: deeppink;
+	font-size: 1.5em;
+	background-image: url(https://i.pinimg.com/originals/a6/38/8a/a6388a64a4d80bff733d580303c06433.gif);
+}
+tr:nth-child(odd){
+	background-color: bisque;
+}
+tr:nth-child(even){
+	background-color: wheat;
+}
+.sc{
+	text-align: right;
+	vertical-align: middle;
+	color: slategray;
+	font-style: italic;
+}
+caption{ 
+	font-size: 50px;
+	background: linear-gradient(darkslateblue, slateblue, mediumpurple);
+}
+
